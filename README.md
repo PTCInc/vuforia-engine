@@ -15,6 +15,6 @@ See our [Unity API Reference](https://library.vuforia.com/sites/default/files/re
 The SDK release notes are available through our [release notes](https://library.vuforia.com/release-notes/vuforia-engine-release-notes) page.
 
 ## Terms & Conditions
-By downloading the Vuforia Engine SDK, you agree to our [developer agreement](https://developer.vuforia.com/legal/vuforia-developer-agreement) and [terms of service](https://developer.vuforia.com/legal/tos) which governs your use thereof.
+By using the Vuforia Engine SDK, and this repository, you agree to our [developer agreement](https://developer.vuforia.com/legal/vuforia-developer-agreement) and [terms of service](https://developer.vuforia.com/legal/tos) which governs your use thereof.
 
 Copyright 2023 PTC
