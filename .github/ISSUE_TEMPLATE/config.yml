@@ -1,8 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
-    url: https://github.com/orgs/community/discussions
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+  - name: Contribution Guidelines
+    url: https://github.com/PTCInc/vuforia-engine/blob/master/CONTRIBUTING.md
+    about: You must follow the contribution guidelines in order to post any bug report or feedback request.
+  - name: Vuforia Engine Developer Portal
+    url: https://developer.vuforia.com/
+    about: Access your account, download the SDK, and view account usage.
+  - name: Vuforia Engine Library
+    url: https://library.vuforia.com/
+    about: Find detailed articles and best practices for using Vuforia Engine.
