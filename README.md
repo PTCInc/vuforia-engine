@@ -1,0 +1,20 @@
+![Vuforia Engine Logo](https://integralplm.com/wp-content/uploads/2021/12/vuforia-engine-logo.png)
+
+# Vuforia Engine SDK
+This **issue-only repository** is setup to consolidate all **bug reports and feature requests** from developers using Vuforia Engine.
+
+Vuforia Engine provides APIs for all of the essential AR features like tracking images, objects, and environments. With these capabilities you can build entirely new AR experiences or enhance existing apps with AR features.
+
+## Quick Start
+See the Quickstart for Android Java or Quickstart for Android NDK developer guide.
+
+## API Reference
+See our [Unity API Reference](https://library.vuforia.com/sites/default/files/references/unity/index.html) or [C API Reference](https://library.vuforia.com/sites/default/files/references/native/index.html) documents for more information.
+
+## Release Notes
+The SDK release notes are available through our [release notes](https://library.vuforia.com/release-notes/vuforia-engine-release-notes) page.
+
+## Terms & Conditions
+By downloading the Vuforia Engine SDK, you agree to our [developer agreement](https://developer.vuforia.com/legal/vuforia-developer-agreement) and [terms of service](https://developer.vuforia.com/legal/tos) which governs your use thereof.
+
+Copyright 2022 PTC
