@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Recommended Device Feedback
+about: Share feedback related to new devices or scanners.
 title: ''
-labels: ''
+labels: feedback-device
 assignees: ''
 
 ---

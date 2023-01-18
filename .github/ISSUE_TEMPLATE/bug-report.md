@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug Report
+about: Create a bug report to help us improve the SDK.
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
