@@ -8,6 +8,12 @@ Vuforia Engine provides APIs for all of the essential AR features like tracking 
 ## Quick Start
 Visit our [library](https://library.vuforia.com/) for the latest doucmentation for developing with Vuforia Engine such as the getting started guide of our [Unity SDK](https://library.vuforia.com/getting-started/getting-started-vuforia-engine-unity).
 
+## Downloads
+You can download the [Vuforia Engine SDK](https://developer.vuforia.com/downloads/sdk), [sample projects and code](https://developer.vuforia.com/downloads/samples), and [tools](https://developer.vuforia.com/downloads/tool) via the Vuforia Engine Developer Portal.
+
+
+See our [Unity API Reference](https://library.vuforia.com/sites/default/files/references/unity/index.html) or [C API Reference](https://library.vuforia.com/sites/default/files/references/native/index.html) documents for more information.
+
 ## API Reference
 See our [Unity API Reference](https://library.vuforia.com/sites/default/files/references/unity/index.html) or [C API Reference](https://library.vuforia.com/sites/default/files/references/native/index.html) documents for more information.
 
