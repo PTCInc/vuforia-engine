@@ -13,10 +13,10 @@ A clear and concise summary of what your feature feedback is.
 **Describe your feature**
 A detailed description of your specific feature request. 
 
-**Use-Case Description**
+**Use-case description**
 Please provide a detailed description of the core problem being faced by you and how this new feature would address your needs.
 
-**Business Impact**
+**Business impact**
 What value and impact would this bring you if this feature would be realized?
 
 **Workaround**

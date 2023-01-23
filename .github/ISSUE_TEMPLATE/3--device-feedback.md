@@ -7,14 +7,17 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Summarize your device feedback**
+A clear and concise summary of what your device feedback is. 
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Describe your device**
+A detailed description of your specific device request and how you'd want to use it.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Business Impact**
+What value and impact would this bring you if this device would be supported?
+
+**Link to device manufacturer / device specifications**
+Any links that are related to the manufacturer and specific device.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Add any other context or screenshots about your feedback here.
