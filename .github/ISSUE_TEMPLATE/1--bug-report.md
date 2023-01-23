@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: 1. Bug Report
 about: Create a bug report to help us improve the SDK.
 title: ''
 labels: bug

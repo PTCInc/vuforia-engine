@@ -1,5 +1,5 @@
 ---
-name: Feature Feedback
+name: 2. Feature Feedback
 about: Share feedback related to our features, APIs, or tools.
 title: ''
 labels: feedback-feature
