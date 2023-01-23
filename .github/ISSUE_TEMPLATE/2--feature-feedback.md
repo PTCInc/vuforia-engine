@@ -7,14 +7,20 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Summarize your feature feedback**
+A clear and concise summary of what your feature feedback is. 
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Describe your feature**
+A detailed description of your specific feature request. 
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Use-Case Description**
+Please provide a detailed description of the core problem being faced by you and how this new feature would address your needs.
+
+**Business Impact**
+What value and impact would this bring you if this feature would be realized?
+
+**Workaround**
+Is there currently a workaround for you?
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Add any other context or screenshots about your feedback here.

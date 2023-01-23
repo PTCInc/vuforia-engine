@@ -1,6 +1,6 @@
 ---
 name: 1. Bug Report
-about: Create a bug report to help us improve the SDK.
+about: Report a bug to help us improve the SDK.
 title: ''
 labels: bug
 assignees: ''
@@ -34,5 +34,8 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+**Workaround**
+Is there currently a workaround that you're using?
+
+**Additional comments**
+Add any other details about the problem here.
