@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Summarize the bug**
-A clear and concise summary of what the issue is.
+**Summarize the bug:**
+A clear and concise summary of the issue.
 
 **Observed problem**
 Describe the observed problem as detailed as possible.
