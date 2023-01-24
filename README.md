@@ -3,21 +3,21 @@
 # Vuforia Engine SDK
 This **issue-only repository** for Vuforia Engine can be used to **report issues and share feedback**. Find a list of all reported issues and feedback via our [issue tracker](https://github.com/PTCInc/vuforia-engine/issues).
 
-Vuforia Engine provides APIs for all of the essential AR features like tracking images, objects, and environments. With these capabilities you can build entirely new AR experiences or enhance existing apps with AR features.
+Vuforia Engine is the most powerful cross-platform SDK for all essential AR features including tracking images, objects, and environments. With these capabilities, you can build entirely new AR experiences or enhance existing apps with AR features.
 
 ## Downloads
-You can download the [Vuforia Engine SDK](https://developer.vuforia.com/downloads/sdk), [sample projects and code](https://developer.vuforia.com/downloads/samples), and [tools](https://developer.vuforia.com/downloads/tool) via the Vuforia Engine Developer Portal.
+You can download the [Vuforia Engine SDK](https://developer.vuforia.com/downloads/sdk), [Sample Projects](https://developer.vuforia.com/downloads/samples), and [Tools](https://developer.vuforia.com/downloads/tool) from the Vuforia Engine Developer Portal.
 
 ## Quick Start
-Visit our [library](https://library.vuforia.com/) for the latest doucmentation for developing with Vuforia Engine such as the getting started guide of our [Unity SDK](https://library.vuforia.com/getting-started/getting-started-vuforia-engine-unity).
+Visit our [library](https://library.vuforia.com/) for the latest documentation on developing with Vuforia Engine such as the Getting Started Guide of our [Unity SDK](https://library.vuforia.com/getting-started/getting-started-vuforia-engine-unity).
 
 ## API Reference
-See our [Unity API Reference](https://library.vuforia.com/sites/default/files/references/unity/index.html) or [C API Reference](https://library.vuforia.com/sites/default/files/references/native/index.html) documents for more information.
+See our [Unity API Reference](https://library.vuforia.com/sites/default/files/references/unity/index.html) or [C API Reference](https://library.vuforia.com/sites/default/files/references/native/index.html) for the Vuforia Engine API reference library.
 
 ## Release Notes
-The SDK release notes are available through our [release notes](https://library.vuforia.com/release-notes/vuforia-engine-release-notes) page.
+The SDK release notes are available through our [Release Notes](https://library.vuforia.com/release-notes/vuforia-engine-release-notes) page.
 
 ## Terms & Conditions
-By using the Vuforia Engine SDK, and this repository, you agree to our [developer agreement](https://developer.vuforia.com/legal/vuforia-developer-agreement) and [terms of service](https://developer.vuforia.com/legal/tos) which governs your use thereof.
+By using the Vuforia Engine SDK, and this repository, you agree to our [Developer Agreement](https://developer.vuforia.com/legal/vuforia-developer-agreement) and [Terms of Service](https://developer.vuforia.com/legal/tos) which governs your use thereof.
 
 Copyright 2023 PTC
