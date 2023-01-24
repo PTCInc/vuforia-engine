@@ -12,17 +12,15 @@ If you’re experiencing a technical issue or a bug, please submit an issue with
 - **Developer Platform version** (Unity, Android Studio, Xcode, Visual Studio)
 - **Device information** (Model name, OS, version, etc.)
 
-**Note:** PTC staff can only provide developer support for recent Vuforia Engine versions. Version 9, 8, or lower are deprecated and might not receive any answer.
-
-You should also highlight what the observed problem is, what your expected result is, and the reproducible steps. You should be able to reproduce your issue with the [Core Samples](https://developer.vuforia.com/downloads/samples) of Vuforia Engine.
+When reporting an issue, please provide a clear description of the problem, including the expected outcome and the steps taken to reproduce the issue. To help troubleshoot the problem, please reproduce the issue using the [Core Samples](https://developer.vuforia.com/downloads/samples) of Vuforia Engine as this will aid in identifying the cause of the issue.
 
 - **Observed problem**
-- **Expected result**
+- **Expected outcome**
 - **Reproducible steps**
 
-Without highlighting the *observed problem* and *expected result*, it is difficult to understand what the issue might be. The *reproducible steps* are highly valuable as they’re used to replicate the issue and later verify the solution.
+It is essential to provide a clear description of the *observed problem* and *expected outcome* when reporting an issue, as this allows for a better understanding of the problem at hand. Additionally, providing *reproducible steps* is crucial as it allows for the replication of the issue and verification of the solution.
 
-Depending on your problem (error, visual glitch, etc.) these details are also very important:
+When reporting an issue, it is also important to provide additional details depending on the nature of the problem, such as error messages, visual glitches, etc:
 
 - **Device log files**
 - **Affected datasets**
@@ -31,20 +29,34 @@ Depending on your problem (error, visual glitch, etc.) these details are also ve
 
 Providing these valuable details, will help us to best assess your specific issue.
 
-**Note:** Without sufficient details you might get **no responses** for your issues.
+**Note:** PTC staff can only provide developer support for the most recent versions of the Vuforia Engine. Versions 9 or earlier are deprecated and may not receive a response.
 
 ## How to share feedback
 
-- Check if your feedback fits the selected category and if there's already submitted feedback from other developers before creating your own.
-- Be **clear** with your feedback, provide use-cases and solutions to the improvements you are posing. Feedback without actionable details may be removed without comment.
-- Instead of creating similar feedback posts, try to upvote or comment on existing feedback.
-- Make sure to share your post with others to gain more support!
-- Titles that are unclear or unnecessarily vulgar may be reworded to better reflect the request for ease of discovery.
 
-**Note:** Feedback and discussions from the PTC staff are not a guarantee that we will act on feedback. We will do our best to communicate why an idea may or may not work, but cannot always be able to share that information.
+- Before submitting your feedback, verify that it aligns with the appropriate category and that similar feedback has not already been submitted by other developers.
+- Clearly state your feedback, providing specific use-cases and solutions for the improvements you are suggesting. Feedback without actionable details may be removed without comment.
+- Consider upvoting or commenting on existing feedback that aligns with your request.
+- Issue titles that are unclear or contain inappropriate language may be reworded for better visibility and discoverability.
+- Share your feedback with others to increase support and improve the chances of it being implemented.
 
-**Appeals or commentary on suspension decisions, support requests, suggestions disparaging others, and non-constructive feedback will be closed without comment.**
+**Note:** Submitting feedback or requests does not guarantee that they will be acted upon. We will make every effort to provide an explanation for why an idea may or may not be feasible, but there may be instances where we are unable to share that information.
 
 ## Community Guidelines
 
-This repository follows [PTC Community's Community Guidelines](https://community.ptc.com/t5/Welcome-How-To-s/Community-Guidelines/m-p/795342).
+The following behaviors are **strictly prohibited** within this repository:
+
+- Any form of abuse, harassment, defamatory, threatening or discriminatory behavior.
+- Use of offensive language or hate speech in any form.
+- Discussions on divisive topics such as politics, religion, race, etc.
+- Impersonating PTC staff, admins, moderators or any other community members.
+- Trolling or posting off-topic content.
+- Hijacking or derailing of threads.
+- Discussions or promotion of pirated software or illegal activities.
+- Spamming, including the creation of duplicate threads or posts, as well as advertising.
+
+Threads and replies that are lacking in content or do not contribute to the discussion will be removed without warning. It is expected that all posts contain meaningful information and contribute to the community in a constructive manner which is highlighted above.
+
+**Appeals or commentary on suspension decisions, support requests, suggestions disparaging others, and non-constructive feedback will be closed without comment.**
+
+This repository also follows [PTC Community's Community Guidelines](https://community.ptc.com/t5/Welcome-How-To-s/Community-Guidelines/m-p/795342).
