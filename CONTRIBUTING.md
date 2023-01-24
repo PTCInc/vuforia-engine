@@ -1,5 +1,22 @@
 # Contribution Guidelines
 
+The following behaviors are **strictly prohibited** within this repository:
+
+- Any form of abuse, harassment, defamatory, threatening or discriminatory behavior.
+- Use of offensive language or hate speech in any form.
+- Discussions on divisive topics such as politics, religion, race, etc.
+- Impersonating PTC staff, admins, moderators or any other community members.
+- Trolling or posting off-topic content.
+- Hijacking or derailing of threads.
+- Discussions or promotion of pirated software or illegal activities.
+- Spamming, including the creation of duplicate threads or posts, as well as advertising.
+
+Threads and replies that are lacking in content or do not contribute to the discussion will be removed without warning. It is expected that all posts contain meaningful information and contribute to the community in a constructive manner which is highlighted above.
+
+**Appeals or commentary on suspension decisions, support requests, suggestions disparaging others, and non-constructive feedback will be closed without comment.**
+
+**Note:** This repository also follows [PTC Community's Community Guidelines](https://community.ptc.com/t5/Welcome-How-To-s/Community-Guidelines/m-p/795342).
+
 ## Where to contribute
 
 Please use the [issue tracker](https://github.com/PTCInc/vuforia-engine/issues) to report bugs, share feedback, or request new features and device support.
@@ -41,22 +58,3 @@ Providing these valuable details, will help us to best assess your specific issu
 - Share your feedback with others to increase support and improve the chances of it being implemented.
 
 **Note:** Submitting feedback or requests does not guarantee that they will be acted upon. We will make every effort to provide an explanation for why an idea may or may not be feasible, but there may be instances where we are unable to share that information.
-
-## Community Guidelines
-
-The following behaviors are **strictly prohibited** within this repository:
-
-- Any form of abuse, harassment, defamatory, threatening or discriminatory behavior.
-- Use of offensive language or hate speech in any form.
-- Discussions on divisive topics such as politics, religion, race, etc.
-- Impersonating PTC staff, admins, moderators or any other community members.
-- Trolling or posting off-topic content.
-- Hijacking or derailing of threads.
-- Discussions or promotion of pirated software or illegal activities.
-- Spamming, including the creation of duplicate threads or posts, as well as advertising.
-
-Threads and replies that are lacking in content or do not contribute to the discussion will be removed without warning. It is expected that all posts contain meaningful information and contribute to the community in a constructive manner which is highlighted above.
-
-**Appeals or commentary on suspension decisions, support requests, suggestions disparaging others, and non-constructive feedback will be closed without comment.**
-
-This repository also follows [PTC Community's Community Guidelines](https://community.ptc.com/t5/Welcome-How-To-s/Community-Guidelines/m-p/795342).
