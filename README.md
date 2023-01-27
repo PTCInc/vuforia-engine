@@ -18,8 +18,6 @@ See our [Unity API Reference](https://library.vuforia.com/sites/default/files/re
 The SDK release notes are available through our [Release Notes](https://library.vuforia.com/release-notes/vuforia-engine-release-notes) page.
 
 ## Terms & Conditions
-By using the Vuforia Engine SDK, and this repository, you agree to our [Developer Agreement](https://developer.vuforia.com/legal/vuforia-developer-agreement) and [Terms of Service](https://developer.vuforia.com/legal/tos) which governs your use thereof. 
-
-By using this repository you additionally agree to our [Contribution Guidelines](https://github.com/PTCInc/vuforia-engine/blob/master/CONTRIBUTING.md) and [PTC Community's Community Guidelines](https://community.ptc.com/t5/Welcome-How-To-s/Community-Guidelines/m-p/795342).
+By using this repository, you agree to our [Contribution Guidelines](https://github.com/PTCInc/vuforia-engine/blob/master/CONTRIBUTING.md) and [PTC Community's Community Guidelines](https://community.ptc.com/t5/Welcome-How-To-s/Community-Guidelines/m-p/795342).
 
 Copyright 2023 PTC
