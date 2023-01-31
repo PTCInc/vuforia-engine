@@ -1,6 +1,6 @@
 ---
 name: 3. Device Feedback
-about: Share feedback related to new devices or scanners.
+about: Share feedback related to new devices, platforms, or scanners.
 title: ''
 labels: feedback-device
 assignees: ''
