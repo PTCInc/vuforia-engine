@@ -9,7 +9,7 @@ Vuforia Engine is the most powerful cross-platform SDK for all essential AR feat
 You can download the [Vuforia Engine SDK](https://developer.vuforia.com/downloads/sdk), [Sample Projects](https://developer.vuforia.com/downloads/samples), and [Tools](https://developer.vuforia.com/downloads/tool) from the Vuforia Engine Developer Portal.
 
 ## Quick Start
-Visit our [library](https://library.vuforia.com/) for the latest documentation on developing with Vuforia Engine such as the Getting Started Guide of our [Unity SDK](https://library.vuforia.com/getting-started/getting-started-vuforia-engine-unity).
+Get the latest Vuforia Engine development documentation at our [library](https://library.vuforia.com/), including the [Unity SDK](https://library.vuforia.com/getting-started/getting-started-vuforia-engine-unity) Getting Started Guide. There's also a list of [recommended devices](https://library.vuforia.com/platform-support/recommended-devices) and [supported platform versions](https://library.vuforia.com/platform-support/supported-versions) available.
 
 ## API Reference
 See our [Unity API Reference](https://library.vuforia.com/sites/default/files/references/unity/index.html) or [C API Reference](https://library.vuforia.com/sites/default/files/references/native/index.html) for the Vuforia Engine API reference library.
