@@ -15,6 +15,7 @@ Describe the observed problem as detailed as possible.
 
 **Expected result**
 A clear and concise description of what you expected to happen.
+
 **Other observations**
 Share any other observations that you made while experiencing the bug.
 
@@ -37,6 +38,12 @@ E.g. v10.12.3.
  - Name: [e.g. Google Pixel 6a]
  - Model: [e.g. GX7AS]
  - OS: [e.g. Android 12]
+
+**Screenshots / Video Recordings**
+Share any screenshots or video recordings from the platform or device. You can also use the [Session Recorder](https://library.vuforia.com/platform-support/recording-and-playback).
+
+**Affected database**
+If applicable, share your database / dataset which is affected in the issue you're experiecing.
 
 **Device or platform logs**
 ```Share any logs from the platform or device.```
