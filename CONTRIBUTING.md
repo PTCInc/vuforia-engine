@@ -13,7 +13,7 @@ The following behaviors are **strictly prohibited** within this repository:
 - Discussions about devices, OS versions, platform versions and / or graphics APIs that are not supported by Vuforia Engine.
 - Spamming, including the creation of duplicate threads or posts, as well as advertising.
 
-Threads and replies that are lacking in content or do not contribute to the discussion will be removed without warning. It is expected that all posts contain meaningful information and contribute to the community in a constructive manner which is highlighted above.
+Threads and replies that are lacking in content or do not contribute to the discussion will be removed without warning. It is expected that all posts contain meaningful information and contribute to the community in a constructive manner which is highlighted above. Threads are also closed within 7-14 days if there's no repsonse.
 
 **Appeals or commentary on suspension decisions, support requests, suggestions disparaging others, and non-constructive feedback will be closed without comment.**
 
