@@ -21,11 +21,17 @@ Threads and replies that are lacking in content or do not contribute to the disc
 
 ## Where to contribute
 
-Please use the [issue tracker](https://github.com/PTCInc/vuforia-engine/issues) to report bugs, share feedback, or request new features and device support.
+Please use the [issue tracker](https://github.com/PTCInc/vuforia-engine/issues) to report bugs, share feedback, or request new features and device support. You can use the "New issue" button to choose one of the issue templates. Currently we provide a few different issue templates:
+- **Bug Report:** To report bugs to help us improve the SDK.
+- **Feature Feedback:** To share feedback related to our features, APIs, or tools.
+- **Device Feedback:** To share feedback related to new devices, platforms, or scanners.
+- **Documentation or Samples Feedback:** To share feedback related to our sample code or the Vuforia Library.
 
 ## How to write a bug report
 
-If you’re experiencing a technical issue or a bug, please submit an issue with the information below to increase the chances of getting a timely and accurate response from PTC staff or the community.
+If you’re experiencing a technical issue or a bug,  you can submit an issue via the "Bug Report" issue template.
+
+please submit an issue with the information below to increase the chances of getting a timely and accurate response from PTC staff or the community.
 
 - **Vuforia Engine version**
 - **Developer Platform version** (Unity, Android Studio, Xcode, Visual Studio)
@@ -52,6 +58,9 @@ Providing these valuable details, will help us to best assess your specific issu
 
 ## How to share feedback
 
+If you want to share feedback related to the SDK, you can submti an issue via the various feedback issue templates mentioned above.
+
+Please consider the following information when sharing feedback to increase the chances of getting a timely and accurate response from PTC staff or the community:
 
 - Before submitting your feedback, verify that it aligns with the appropriate category and that similar feedback has not already been submitted by other developers.
 - Clearly state your feedback, providing specific use-cases and solutions for the improvements you are suggesting. Feedback without actionable details may be removed without comment.
