@@ -1,3 +1,5 @@
+> **Vuforia Engine 10.15 has been released!** Model Target and External Camera improvements, advanced camera controls changes, and Premium Plan license generation is now available. Find out more [here](https://github.com/PTCInc/vuforia-engine/issues/25).
+
 ![Vuforia Engine Logo](https://integralplm.com/wp-content/uploads/2021/12/vuforia-engine-logo.png)
 
 # Vuforia Engine SDK
