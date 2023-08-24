@@ -1,4 +1,4 @@
-> **Vuforia Engine 10.16 has been released!** Matteerport Pro 3 Support, New Account Dashboard in Developer Portal, and improvements to the Area Target Capture API and Model Target Generator! Find out more [here](https://github.com/PTCInc/vuforia-engine/issues/40).
+> **Vuforia Engine 10.17 has been released!** Updates to our camera instrinsics and more detailed logging capabilities in the Model and Area Target Generators. Find out more [here](https://github.com/PTCInc/vuforia-engine/issues/50).
 
 ![Vuforia Engine Logo](https://integralplm.com/wp-content/uploads/2021/12/vuforia-engine-logo.png)
 
