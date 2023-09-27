@@ -8,9 +8,9 @@ This **issue-only repository** for Vuforia Engine can be used to **report issues
 Vuforia Engine is the most powerful cross-platform SDK for all essential AR features including tracking images, objects, and environments. With these capabilities, you can build entirely new AR experiences or enhance existing apps with AR features.
 
 ## Reporting and Sharing
-You can use this repository to report any issues or provide feedback related to Vuforia Engine via our [issue tracker](https://github.com/PTCInc/vuforia-engine/issues). By clicking on the "new issue" button, you will have access to various templates specifically designed for reporting bugs, providing feedback related to documentation, devices, or features.
+You can use this repository to report any issues or provide feedback related to Vuforia Engine via our [issue tracker](https://github.com/PTCInc/vuforia-engine/issues). This also includes our samples, tools, and Engine Developer Portal.
 
-These templates will make it easier for you to communicate the nature of the issue or feedback you have, allowing for a quicker and more efficient resolution. 
+By clicking on the "new issue" button within the issue tracker, you will have access to various templates specifically designed for reporting bugs, providing feedback related to documentation, devices, or features. These templates will make it easier for you to communicate the nature of the issue or feedback you have, allowing for a quicker and more efficient resolution. 
 
 ## Downloads
 You can download the [Vuforia Engine SDK](https://developer.vuforia.com/downloads/sdk), [Sample Projects](https://developer.vuforia.com/downloads/samples), and [Tools](https://developer.vuforia.com/downloads/tool) from the Vuforia Engine Developer Portal.
