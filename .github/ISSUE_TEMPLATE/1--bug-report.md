@@ -1,6 +1,6 @@
 ---
 name: 1. Bug Report
-about: Report a bug to help us improve the SDK.
+about: Report a bug to help us improve the SDK, Tools, or Developer Portal.
 title: ''
 labels: bug
 assignees: ''
