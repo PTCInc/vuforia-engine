@@ -1,4 +1,4 @@
-> **Vuforia Engine 10.17 has been released!** Updates to our camera instrinsics and more detailed logging capabilities in the Model and Area Target Generators. Find out more [here](https://github.com/PTCInc/vuforia-engine/issues/50).
+> **Vuforia Engine 10.18 has been released!** Various Area Target and Model Target improvements and bug fixes. Find out more [here](https://github.com/PTCInc/vuforia-engine/issues/62).
 
 ![Vuforia Engine Logo](https://integralplm.com/wp-content/uploads/2021/12/vuforia-engine-logo.png)
 
