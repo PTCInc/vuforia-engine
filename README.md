@@ -1,4 +1,4 @@
-> **Vuforia Engine 10.18 has been released!** Various Area Target and Model Target improvements and bug fixes. Find out more [here](https://github.com/PTCInc/vuforia-engine/issues/62).
+> **Vuforia Engine 10.19 has been released!** New UWP Camera Bridge tool, general improvements, and bug fixes. Find out more [here](https://github.com/PTCInc/vuforia-engine/issues/74).
 
 ![Vuforia Engine Logo](https://integralplm.com/wp-content/uploads/2021/12/vuforia-engine-logo.png)
 
