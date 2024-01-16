@@ -57,7 +57,7 @@ Providing these valuable details, will help us to best assess your specific issu
 
 ## How to share feedback
 
-If you want to share feedback related to the SDK, you can submti an issue via the various feedback issue templates mentioned above.
+If you want to share feedback related to the SDK, you can submit an issue via the various feedback issue templates mentioned above.
 
 Please consider the following information when sharing feedback to increase the chances of getting a timely and accurate response from PTC staff or the community:
 
