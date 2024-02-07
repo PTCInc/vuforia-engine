@@ -1,4 +1,4 @@
-> **Vuforia Engine 10.20 has been released!** Updates to Model Target training speed and detection! Find out more [here](https://developer.vuforia.com/).
+> **Vuforia Engine 10.21 has been released!** Engine now supports the Unity Universal Render Pipeline (URP)! Find out more [here](https://github.com/PTCInc/vuforia-engine/issues/87).
 
 ![Vuforia Engine Logo](https://integralplm.com/wp-content/uploads/2021/12/vuforia-engine-logo.png)
 
