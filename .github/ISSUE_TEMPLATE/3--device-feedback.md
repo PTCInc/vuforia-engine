@@ -2,7 +2,7 @@
 name: 3. Device Feedback
 about: Share feedback related to new devices, platforms, or scanners.
 title: ''
-labels: feedback-device
+labels: device-feedback
 assignees: ''
 
 ---

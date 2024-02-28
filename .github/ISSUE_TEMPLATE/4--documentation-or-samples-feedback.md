@@ -2,7 +2,7 @@
 name: 4. Documentation or Samples Feedback
 about: " Share feedback related to our sample code or the Vuforia Library."
 title: ''
-labels: feedback-documentation
+labels: documentation-feedback
 assignees: ''
 
 ---

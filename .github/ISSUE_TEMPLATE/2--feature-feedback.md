@@ -2,7 +2,7 @@
 name: 2. Feature Feedback
 about: Share feedback related to features of the SDK, Tools, or Developer Portal.
 title: ''
-labels: feedback-feature
+labels: feature-feedback
 assignees: ''
 
 ---
