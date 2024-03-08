@@ -3,7 +3,7 @@
 ![Vuforia Engine Logo](https://integralplm.com/wp-content/uploads/2021/12/vuforia-engine-logo.png)
 
 # Vuforia Engine SDK
-This **issue-only repository** for Vuforia Engine can be used to **report issues and share feedback**. Find a list of all reported issues and feedback via our [issue tracker](https://github.com/PTCInc/vuforia-engine/issues).
+This **issue-only repository** can be used for any Vuforia Engine related issues or feedback. Find a list of all reported issues and feedback via our [issue tracker](https://github.com/PTCInc/vuforia-engine/issues).
 
 Vuforia Engine is the most powerful cross-platform SDK for all essential AR features including tracking images, objects, and environments. With these capabilities, you can build entirely new AR experiences or enhance existing apps with AR features.
 
