@@ -1,4 +1,4 @@
-> **Vuforia Engine 10.21 has been released!** Engine now supports the Unity Universal Render Pipeline (URP)! Find out more [here](https://github.com/PTCInc/vuforia-engine/issues/87).
+> **Vuforia Engine 10.22 has been released!** Speed updates and a refreshed Target Manager! Find out more [here](https://github.com/PTCInc/vuforia-engine/issues/105).
 
 ![Vuforia Engine Logo](https://integralplm.com/wp-content/uploads/2021/12/vuforia-engine-logo.png)
 
@@ -8,7 +8,7 @@ This **issue-only repository** can be used for any Vuforia Engine related issues
 Vuforia Engine is the most powerful cross-platform SDK for all essential AR features including tracking images, objects, and environments. With these capabilities, you can build entirely new AR experiences or enhance existing apps with AR features.
 
 ## Reporting and Sharing
-You can use this repository to report any issues or provide feedback related to Vuforia Engine via our [issue tracker](https://github.com/PTCInc/vuforia-engine/issues). This also includes issues or feedback for our samples, tools, and Engine Developer Portal.
+You can use this repository to report any issues or provide feedback related to Vuforia Engine via our [issue tracker](https://github.com/PTCInc/vuforia-engine/issues). This also includes issues or feedback for our samples, tools, and Engine Developer Portal. Feel free to go through our [troubleshoot guide](https://developer.vuforia.com/library/troubleshooting/troubleshooting-your-app) to narrow down any issues you might experience.
 
 By clicking on the "new issue" button within the issue tracker, you will have access to various templates specifically designed for reporting bugs, providing feedback related to documentation, devices, or features. These templates will make it easier for you to communicate the nature of the issue or feedback you have, allowing for a quicker and more efficient resolution:
 
