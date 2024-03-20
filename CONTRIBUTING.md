@@ -36,7 +36,7 @@ please submit an issue with the information below to increase the chances of get
 - **Developer Platform version** (Unity, Android Studio, Xcode, Visual Studio)
 - **Device information** (Model name, OS, version, etc.)
 
-When reporting an issue, please provide a clear description of the problem, including the expected outcome and the steps taken to reproduce the issue. To help troubleshoot the problem, please reproduce the issue using the [Core Samples](https://developer.vuforia.com/downloads/samples) of Vuforia Engine as this will aid in identifying the cause of the issue.
+When reporting an issue, please provide a clear description of the problem, including the expected outcome and the steps taken to reproduce the issue. To help troubleshoot the problem, please reproduce the issue using the [Core Samples](https://developer.vuforia.com/downloads/samples) of Vuforia Engine as this will aid in identifying the cause of the issue. Please use our [troubleshoot guide](https://developer.vuforia.com/library/troubleshooting/troubleshooting-your-app) to narrow down your problem.
 
 - **Observed problem**
 - **Expected outcome**
