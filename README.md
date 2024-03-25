@@ -29,4 +29,4 @@ The SDK release notes are available through our [Release Notes](https://library.
 ## Terms & Conditions
 By using this repository, you agree to our [Contribution Guidelines](https://github.com/PTCInc/vuforia-engine/blob/master/CONTRIBUTING.md) and [PTC Community's Community Guidelines](https://community.ptc.com/t5/Welcome-How-To-s/Community-Guidelines/m-p/795342).
 
-Copyright 2023 PTC
+Copyright 2024 PTC
