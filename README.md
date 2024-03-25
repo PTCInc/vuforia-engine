@@ -1,5 +1,3 @@
-> **Vuforia Engine 10.22 has been released!** Speed updates and a refreshed Target Manager! Find out more [here](https://github.com/PTCInc/vuforia-engine/issues/105).
-
 ![Vuforia Engine Logo](https://integralplm.com/wp-content/uploads/2021/12/vuforia-engine-logo.png)
 
 # Vuforia Engine SDK
