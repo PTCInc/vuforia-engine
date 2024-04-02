@@ -48,7 +48,8 @@ When reporting an issue, it is also important to provide additional details depe
 
 - **Device log files**
 - **Affected datasets**
-- **Videos showing the observed issue** (e.g. visual artifact screen recording, [Session Recording](https://library.vuforia.com/platform-support/recording-and-playback), etc.)
+- **Videos showing the observed issue** (e.g. visual artifact screen recording, target issue recording, etc.)
+- **Session Recording file** (Through the [SessionRecorder API](https://developer.vuforia.com/library/platform-support/recording-and-playback))
 - **Other observations and notes**
 
 Providing these valuable details, will help us to best assess your specific issue.
